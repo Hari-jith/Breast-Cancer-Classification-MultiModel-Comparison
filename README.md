@@ -37,9 +37,23 @@ DenseNet121
 InceptionV3
 Each model architecture has been fine-tuned with a custom classification head to output benign or malignant predictions.
 
+
 Model Evaluation
 The models are evaluated on a balanced test set to prevent skewed accuracy metrics. Evaluation metrics include:
 
 Accuracy
 Confusion Matrix
 Classification Report
+
+
+
+
+##Clone this repository
+git clone https://github.com/yourusername/Breast-Cancer-Classification-MultiModel-Comparison.git
+cd Breast-Cancer-Classification-MultiModel-Comparison
+
+
+
+##Contact
+
+**Email**: harijithmm8122003@gmail.com
