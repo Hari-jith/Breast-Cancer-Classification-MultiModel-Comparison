@@ -48,10 +48,6 @@ Classification Report
 
 
 
-## Clone this repository
-
-git clone https://github.com/yourusername/Breast-Cancer-Classification-MultiModel-Comparison.git
-cd Breast-Cancer-Classification-MultiModel-Comparison
 
 
 
