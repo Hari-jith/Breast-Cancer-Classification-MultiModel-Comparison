@@ -5,7 +5,10 @@ A comprehensive breast cancer classification project that leverages multiple pre
 This project is a breast cancer classification system that employs multiple deep learning architectures, including VGG19, DenseNet121, EfficientNetB0, and InceptionV3, to classify histopathology images as benign or malignant. Each model is trained and evaluated independently, providing a comparative analysis of their performance on this specific task. This system is designed to aid in medical diagnosis by accurately identifying the nature of breast tumors.
 
 ## Dataset
-The model uses the **BreaKHis** dataset, which includes breast cancer histopathology images categorized into benign and malignant classes. The dataset covers images at various magnification levels. To use this dataset, download it from [Kaggle](https://www.kaggle.com/anaselmasry/breast-cancer-dataset) and ensure it is organized in a specified structure.
+The model uses the **BreaKHis** dataset, which includes breast cancer histopathology images categorized into benign and malignant classes. The dataset covers images at various magnification levels. To use this dataset, download it from [Kaggle]and ensure it is organized in a specified structure.
+Dataset Link : https://www.kaggle.com/anaselmasry/breast-cancer-dataset
+![Dataset_samp](https://github.com/user-attachments/assets/914de685-2430-4008-a0aa-8b21f79dde0b)
+
 
 ## Project Structure
 The project follows a structured pipeline:
@@ -24,9 +27,6 @@ The project follows a structured pipeline:
 - Matplotlib
 - Seaborn
 
-Install all dependencies with:
-```bash
-pip install -r requirements.txt
 Models Implemented
 VGG19
 EfficientNetB0
